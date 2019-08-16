@@ -8,7 +8,7 @@ import java.security.InvalidParameterException
  * 你可以假设每种输入只会对应一个答案。但是，你不能重复利用这个数组中同样的元素。
  *
  */
-class P1 {
+class P0001 {
 
   /**
    * Traversing
