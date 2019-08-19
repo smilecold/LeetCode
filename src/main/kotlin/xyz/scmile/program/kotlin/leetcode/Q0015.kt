@@ -5,7 +5,7 @@ package xyz.scmile.program.kotlin.leetcode
  * 判断 nums 中是否存在三个元素 a，b，c ，
  * 使得 a + b + c = 0 ？找出所有满足条件且不重复的三元组。
  */
-class P0015 {
+class Q0015 {
 
   /**
    * Traversing

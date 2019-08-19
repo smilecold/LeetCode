@@ -1,6 +1,6 @@
 package xyz.scmile.program.kotlin.leetcode
 
-class P0002 {
+class Q0002 {
   class ListNode(var `val`: Int) {
     var next: ListNode? = null
     override fun toString(): String {

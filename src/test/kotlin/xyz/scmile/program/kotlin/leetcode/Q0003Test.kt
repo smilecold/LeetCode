@@ -2,8 +2,8 @@ package xyz.scmile.program.kotlin.leetcode
 
 import org.junit.jupiter.api.Test
 
-internal class P0003Test {
-  private val p0003 = P0003()
+internal class Q0003Test {
+  private val p0003 = Q0003()
   private val sList= listOf("abcabcbb","bbbbb","pwwkew")
 
   @Test

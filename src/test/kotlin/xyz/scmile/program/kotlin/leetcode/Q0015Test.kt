@@ -2,8 +2,8 @@ package xyz.scmile.program.kotlin.leetcode
 
 import org.junit.jupiter.api.Test
 
-internal class P0015Test {
-  val p0015 = P0015()
+internal class Q0015Test {
+  val p0015 = Q0015()
   private val nums = intArrayOf(-1, 0, 1, 2, -1, -4)
 
   @Test
